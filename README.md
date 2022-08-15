@@ -10,6 +10,8 @@
 | [Insertion sort](./1-insertion_sort_list.c) | function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://alx-intranet.hbtn.io/rltoken/GocxRKbPdsmERXeOHMCO2w) algorithm |
 | [Selection sort](2-selection_sort.c) | function that sorts an array of integers in ascending order using the [Selection sort](https://alx-intranet.hbtn.io/rltoken/SEbg0fBEraioQcl-igvUSw) algorithm |
 | [Quick Sort](./3-quick_sort.c) | function that sorts an array of integers in ascending order using the [Quick sort](function that sorts an array of integers in ascending order using the Quick sort algorithm) algorithm |
+| [Shell Sort](./100-shell_sort.c) | function that sorts an array of integers in ascending order using the [Shell sort](https://alx-intranet.hbtn.io/rltoken/FdpP4Qin3iDAaz1kuPD2Kg) algorithm, using the `Knuth sequence` |
+|   |   |
 
 
 - Bubble Sort
