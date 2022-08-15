@@ -12,8 +12,3 @@
 | [Quick Sort](./3-quick_sort.c) | function that sorts an array of integers in ascending order using the [Quick sort](function that sorts an array of integers in ascending order using the Quick sort algorithm) algorithm |
 | [Shell Sort](./100-shell_sort.c) | function that sorts an array of integers in ascending order using the [Shell sort](https://alx-intranet.hbtn.io/rltoken/FdpP4Qin3iDAaz1kuPD2Kg) algorithm, using the `Knuth sequence` |
 |   |   |
-
-
-- Bubble Sort
-
-  - ![](<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian ("Csángó") folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
