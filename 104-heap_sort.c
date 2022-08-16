@@ -8,7 +8,7 @@
 
 void heap_sort(int *array, size_t size)
 {
-	int i, n;
+	int n;
 
 	build_max_heap(array, size);
 	n = size;
