@@ -53,5 +53,11 @@ void radix_sort(int *array, size_t size);
 int get_max(int *array, int size);
 void radix_counting_sort(int *array, size_t size, int sig, int *buff);
 void radix_sort(int *array, size_t size);
+void bitonic_merge(int *array, size_t size,
+		   size_t low, size_t n, char ascending);
+void bitonic_sort_split(int *array, size_t size,
+			size_t low, size_t n, char ascending);
+void bitonic_sort(int *array, size_t size);
+
 
 #endif
